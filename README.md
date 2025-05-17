@@ -67,21 +67,28 @@ You can run the simulation notebook in Google Colab:
 
 ---
 
-## Bloom Field Equation Comparison
+### Bloom Field Equation Comparison
+
+This diagram contextualizes the Bloom Field Equation (BFE) within the historical lineage of fundamental physics:
+
+- **General Relativity (GR):** Curvature of spacetime from mass-energy.
+- **Special Relativity (SR):** Mass-energy equivalence.
+- **Quantum Decoherence:** Entropy-driven quantum state reduction.
+- **Bloom Field Equation (BFE):** Proposes deterministic collapse via informational coherence gradients, triggering emergent curvature.
 
 ![Bloom Field Equation](./assets/Bloom_Theory_Equation_Comparison.png)
 
-**Explanation:**  
-[Insert explanation above.]
-
 ---
 
-## Predictive Anomaly Comparison: Bloom vs GR
+### Predictive Anomaly Comparison: Bloom vs GR
+
+This side-by-side visualization contrasts:
+- **General Relativity’s lensing prediction:** Smooth, symmetric distortions based on mass distribution.
+- **Bloom Predictive Anomaly Map:** Structured deviations arising from informational threshold collapses.
+
+The Bloom field model generates observable differences **without invoking dark matter**, allowing direct empirical falsification.
 
 ![Bloom vs GR Anomaly Comparison](./assets/Bloom_vs_GR_Anomaly_Comparison.png)
-
-**Explanation:**  
-[Insert explanation above.]
 
 ---
 
