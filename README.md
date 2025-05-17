@@ -67,6 +67,24 @@ You can run the simulation notebook in Google Colab:
 
 ---
 
+## Bloom Field Equation Comparison
+
+![Bloom Field Equation](./assets/Bloom_Theory_Equation_Comparison.png)
+
+**Explanation:**  
+[Insert explanation above.]
+
+---
+
+## Predictive Anomaly Comparison: Bloom vs GR
+
+![Bloom vs GR Anomaly Comparison](./assets/Bloom_vs_GR_Anomaly_Comparison.png)
+
+**Explanation:**  
+[Insert explanation above.]
+
+---
+
 ## References
 
 - Full paper: (Link to be added when uploaded to `/docs` or arXiv preprint)
